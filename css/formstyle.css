@@ -1,0 +1,41 @@
+*
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+#header
+{
+    color:cyan;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+th ,td{
+    border: 1px solid black;
+    width:500px;
+    height: 25px;
+}
+table{
+    table-layout: fixed;
+    
+}
+#ds
+{
+    width:50%;
+    margin: 100px auto;
+
+    padding:20px;
+    border: 1px solid #ccc;
+    background-color: white;
+}
+body{
+    background-color: #f0f0f0;
+}
+td 
+{
+    background-color: lightgreen;
+}
+#mid
+{
+    text-align: center;
+    background-color: lightgreen;
+}
